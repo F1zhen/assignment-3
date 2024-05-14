@@ -1,0 +1,21 @@
+Analyzing sortgin alaogrithms in Python
+Zhenis Yessimbekov, Se - 2303
+
+1) as we see on the test, the best sort for random data it's quick sort
+
+2) as we see on the test, we also see the same situation, that quick sort faster than other sorts 
+
+3) as we see on the test, the best sort for identical data it's Insertion sort
+
+4) Heap sort has O(NlogN) complexity in best, worst, and average cases, 
+Insertion sort has O(N) complexity if input is already sorted, in worst and average cases it has O(N^2) complexity,
+Merge sort has O(NlogN) complexity in best, worst, and average cases;,
+Quick sort has O(NlogN) complexity in best and average case, and has O(N^2) in worst case, when input is already sorted/reverse-sorted;,
+Selection sort has O(N^2) complexity in best, worst, and average cases.
+
+5) Results may differ, because each sort oriented on unique case for what it was created for, also on speed influenсe sort of data
+
+
+github - https://github.com/F1zhen/assignment-3
+
+	
